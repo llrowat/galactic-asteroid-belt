@@ -19,8 +19,8 @@ github.com/jfreymuth/oggvorbis v1.0.1/go.mod h1:NqS+K+UXKje0FUYUPosyQ+XTVvjmVjps
 github.com/jfreymuth/vorbis v1.0.0/go.mod h1:8zy3lUAm9K/rJJk223RKy6vjCZTWC61NA2QD06bfOE0=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/llrowat/spriteutils v0.1.0 h1:Nin/yRq+GeEu3e++VZIVVlQBPT/EEJW78Cuxtb66mpE=
-github.com/llrowat/spriteutils v0.1.0/go.mod h1:MgBJ/gGLCsHbmEtJiyUEYrNvLWk1Bc3oiOwZS0CRzzk=
+github.com/llrowat/spriteutils v0.1.1 h1:wVavxKAHslVr2HUragT7XCMGZSZJ0YkIM7C80UvADYs=
+github.com/llrowat/spriteutils v0.1.1/go.mod h1:MgBJ/gGLCsHbmEtJiyUEYrNvLWk1Bc3oiOwZS0CRzzk=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
 github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4/go.mod h1:4OwLy04Bl9Ef3GJJCoec+30X3LQs/0/m4HFRt/2LUSA=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
