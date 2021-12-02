@@ -1,12 +1,10 @@
 module github.com/llrowat/galactic-asteroid-belt
 
-replace github.com/llrowat/spriteutils v0.0.0 => ../spriteutils
-
 go 1.17
 
 require (
 	github.com/hajimehoshi/ebiten v1.12.12
-	github.com/llrowat/spriteutils v0.0.0
+	github.com/llrowat/spriteutils v0.1.0
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 )
 

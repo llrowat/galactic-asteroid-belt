@@ -170,10 +170,10 @@ func (g *Game) Update(screen *ebiten.Image) error {
 			// Handle explosions
 			temp := g.asteroidExplosions[:0]
 			for _, asteroidExplosion := range g.asteroidExplosions {
+				asteroidExplosion.Update(time.Duration(g.frameCount) * time.Second / 60)
 				if !asteroidExplosion.IsExpired {
 					temp = append(temp, asteroidExplosion)
 				}
-				asteroidExplosion.Update(time.Duration(g.frameCount) * time.Second / 60)
 			}
 			g.asteroidExplosions = temp
 
