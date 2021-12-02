@@ -1,7 +1,7 @@
 # galactic-asteroid-belt
 
 ## Overview
-A simple game that I created as a way to teach myself Go.  Enjoy!
+A simple game that I created with [Ebiten](https://ebiten.org/) game library as a way to teach myself Go.  Enjoy!
 
 ## Run
 To run, you will need Go 1.17 installed, then just clone the repo and run from root:
